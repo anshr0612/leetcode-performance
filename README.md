@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshr0612/leetcode-performance/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/anshr0612/leetcode-performance/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
