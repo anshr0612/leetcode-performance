@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshr0612/leetcode-performance/tree/master/0014-longest-common-prefix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/anshr0612/leetcode-performance/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
