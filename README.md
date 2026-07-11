@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshr0612/leetcode-performance/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
@@ -161,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anshr0612/leetcode-performance/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshr0612/leetcode-performance/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
