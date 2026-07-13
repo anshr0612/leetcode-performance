@@ -1,26 +1,25 @@
 class Solution {
 public:
-    inline static int q[45];
-    inline static bool init = []() {
-        int n = 0;
-        for (int i = 1; i < 10; i++)
-            q[n++] = i;
-
-        for (int i = 0; i < n; i++) {
-            int d = q[i] % 10;
-            if (d < 9) q[n++] = q[i] * 10 + d + 1;
-        }
-
-        return 0;
-    }();
-
     vector<int> sequentialDigits(int low, int high) {
         vector<int> res;
-
-        for (auto& x : q)
-            if (x >= low && x <= high)
-                res.push_back(x);
-
+        for(int len=2;len<=9;len++){
+            int a=0;
+            int add=0;
+            for(int i=1;i<=len;i++){
+                a=a*10+i;
+                add=add*10+1;
+            }
+            while(1){
+                if(a>=low && a<=high){
+                    res.push_back(a);
+                }
+                int last=a%10;
+                if(last==9){
+                    break;
+                }
+                a=a+add;
+            }
+        }
         return res;
     }
 };
