@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshr0612/leetcode-performance/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anshr0612/leetcode-performance/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/anshr0612/leetcode-performance/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/anshr0612/leetcode-performance/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anshr0612/leetcode-performance/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshr0612/leetcode-performance/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anshr0612/leetcode-performance/tree/master/0053-maximum-subarray) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
