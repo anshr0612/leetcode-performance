@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anshr0612/leetcode-performance/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/anshr0612/leetcode-performance/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshr0612/leetcode-performance/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/anshr0612/leetcode-performance/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anshr0612/leetcode-performance/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshr0612/leetcode-performance/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
