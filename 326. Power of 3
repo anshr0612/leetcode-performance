@@ -1,0 +1,9 @@
+class Solution {
+public:
+    bool isPowerOfThree(int n) {
+        /*The largest power of 3 within a 32-bit signed integer is 1162261467
+        all the numbers which divide this number completely are powers of three*/
+      
+return (n>0 && 1162261467%n==0);  
+    }
+};
