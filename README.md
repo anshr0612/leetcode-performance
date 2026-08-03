@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/anshr0612/leetcode-performance/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [2235-add-two-integers](https://github.com/anshr0612/leetcode-performance/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshr0612/leetcode-performance/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anshr0612/leetcode-performance/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshr0612/leetcode-performance/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -205,4 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
