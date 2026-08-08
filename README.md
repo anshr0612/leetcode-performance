@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshr0612/leetcode-performance/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshr0612/leetcode-performance/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
 | ------- |
