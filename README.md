@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3798-largest-even-number](https://github.com/anshr0612/leetcode-performance/tree/master/3798-largest-even-number) |
 ## Sliding Window
 |  |
 | ------- |
