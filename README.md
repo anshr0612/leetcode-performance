@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/anshr0612/leetcode-performance/tree/master/0073-set-matrix-zeroes) |
 | [0454-4sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0454-4sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anshr0612/leetcode-performance/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anshr0612/leetcode-performance/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
