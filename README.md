@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/anshr0612/leetcode-performance/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/anshr0612/leetcode-performance/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0454-4sum-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anshr0612/leetcode-performance/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/anshr0612/leetcode-performance/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anshr0612/leetcode-performance/tree/master/1510-stone-game-iv) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anshr0612/leetcode-performance/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshr0612/leetcode-performance/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/anshr0612/leetcode-performance/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
