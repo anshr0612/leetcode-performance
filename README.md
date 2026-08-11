@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/anshr0612/leetcode-performance/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshr0612/leetcode-performance/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anshr0612/leetcode-performance/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/anshr0612/leetcode-performance/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3731-find-missing-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/anshr0612/leetcode-performance/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/anshr0612/leetcode-performance/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
