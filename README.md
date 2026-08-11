@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshr0612/leetcode-performance/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anshr0612/leetcode-performance/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anshr0612/leetcode-performance/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Enumeration
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anshr0612/leetcode-performance/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anshr0612/leetcode-performance/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/anshr0612/leetcode-performance/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
