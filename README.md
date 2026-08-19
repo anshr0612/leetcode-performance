@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0454-4sum-ii) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/anshr0612/leetcode-performance/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/anshr0612/leetcode-performance/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anshr0612/leetcode-performance/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0454-4sum-ii) |
+| [0904-fruit-into-baskets](https://github.com/anshr0612/leetcode-performance/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshr0612/leetcode-performance/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/anshr0612/leetcode-performance/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshr0612/leetcode-performance/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
