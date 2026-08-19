@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshr0612/leetcode-performance/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshr0612/leetcode-performance/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshr0612/leetcode-performance/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshr0612/leetcode-performance/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshr0612/leetcode-performance/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshr0612/leetcode-performance/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshr0612/leetcode-performance/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshr0612/leetcode-performance/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/anshr0612/leetcode-performance/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anshr0612/leetcode-performance/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshr0612/leetcode-performance/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3731-find-missing-elements) |
 ## String
 |  |
