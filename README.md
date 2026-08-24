@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anshr0612/leetcode-performance/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/anshr0612/leetcode-performance/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshr0612/leetcode-performance/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshr0612/leetcode-performance/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anshr0612/leetcode-performance/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshr0612/leetcode-performance/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/anshr0612/leetcode-performance/tree/master/2235-add-two-integers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/anshr0612/leetcode-performance/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anshr0612/leetcode-performance/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -288,18 +292,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anshr0612/leetcode-performance/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshr0612/leetcode-performance/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anshr0612/leetcode-performance/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshr0612/leetcode-performance/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anshr0612/leetcode-performance/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshr0612/leetcode-performance/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
