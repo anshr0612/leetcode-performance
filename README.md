@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshr0612/leetcode-performance/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anshr0612/leetcode-performance/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/anshr0612/leetcode-performance/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0454-4sum-ii) |
 | [0904-fruit-into-baskets](https://github.com/anshr0612/leetcode-performance/tree/master/0904-fruit-into-baskets) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshr0612/leetcode-performance/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anshr0612/leetcode-performance/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/anshr0612/leetcode-performance/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshr0612/leetcode-performance/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
