@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anshr0612/leetcode-performance/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/anshr0612/leetcode-performance/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anshr0612/leetcode-performance/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/anshr0612/leetcode-performance/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshr0612/leetcode-performance/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshr0612/leetcode-performance/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anshr0612/leetcode-performance/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/anshr0612/leetcode-performance/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/anshr0612/leetcode-performance/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshr0612/leetcode-performance/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshr0612/leetcode-performance/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshr0612/leetcode-performance/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/anshr0612/leetcode-performance/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshr0612/leetcode-performance/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Interactive
