@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anshr0612/leetcode-performance/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anshr0612/leetcode-performance/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/anshr0612/leetcode-performance/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/anshr0612/leetcode-performance/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anshr0612/leetcode-performance/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/anshr0612/leetcode-performance/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshr0612/leetcode-performance/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anshr0612/leetcode-performance/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anshr0612/leetcode-performance/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshr0612/leetcode-performance/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anshr0612/leetcode-performance/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
