@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anshr0612/leetcode-performance/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anshr0612/leetcode-performance/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anshr0612/leetcode-performance/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anshr0612/leetcode-performance/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
