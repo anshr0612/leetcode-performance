@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anshr0612/leetcode-performance/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/anshr0612/leetcode-performance/tree/master/1406-stone-game-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshr0612/leetcode-performance/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshr0612/leetcode-performance/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/anshr0612/leetcode-performance/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anshr0612/leetcode-performance/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshr0612/leetcode-performance/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshr0612/leetcode-performance/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshr0612/leetcode-performance/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshr0612/leetcode-performance/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshr0612/leetcode-performance/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshr0612/leetcode-performance/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshr0612/leetcode-performance/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshr0612/leetcode-performance/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/anshr0612/leetcode-performance/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshr0612/leetcode-performance/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshr0612/leetcode-performance/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshr0612/leetcode-performance/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshr0612/leetcode-performance/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/anshr0612/leetcode-performance/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshr0612/leetcode-performance/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshr0612/leetcode-performance/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
