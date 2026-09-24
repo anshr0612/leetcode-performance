@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshr0612/leetcode-performance/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshr0612/leetcode-performance/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshr0612/leetcode-performance/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshr0612/leetcode-performance/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/anshr0612/leetcode-performance/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anshr0612/leetcode-performance/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshr0612/leetcode-performance/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshr0612/leetcode-performance/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshr0612/leetcode-performance/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshr0612/leetcode-performance/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anshr0612/leetcode-performance/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
