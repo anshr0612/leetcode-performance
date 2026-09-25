@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshr0612/leetcode-performance/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anshr0612/leetcode-performance/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/anshr0612/leetcode-performance/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/anshr0612/leetcode-performance/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/anshr0612/leetcode-performance/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshr0612/leetcode-performance/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anshr0612/leetcode-performance/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anshr0612/leetcode-performance/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/anshr0612/leetcode-performance/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/anshr0612/leetcode-performance/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
