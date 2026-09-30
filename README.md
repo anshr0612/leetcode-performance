@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshr0612/leetcode-performance/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshr0612/leetcode-performance/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshr0612/leetcode-performance/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshr0612/leetcode-performance/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0700-search-in-a-binary-search-tree) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshr0612/leetcode-performance/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshr0612/leetcode-performance/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0700-search-in-a-binary-search-tree) |
