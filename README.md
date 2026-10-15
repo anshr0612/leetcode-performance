@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshr0612/leetcode-performance/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshr0612/leetcode-performance/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anshr0612/leetcode-performance/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshr0612/leetcode-performance/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshr0612/leetcode-performance/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshr0612/leetcode-performance/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshr0612/leetcode-performance/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshr0612/leetcode-performance/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/2094-finding-3-digit-even-numbers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anshr0612/leetcode-performance/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshr0612/leetcode-performance/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshr0612/leetcode-performance/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshr0612/leetcode-performance/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anshr0612/leetcode-performance/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshr0612/leetcode-performance/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -532,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshr0612/leetcode-performance/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anshr0612/leetcode-performance/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
