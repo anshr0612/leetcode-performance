@@ -562,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anshr0612/leetcode-performance/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshr0612/leetcode-performance/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
