@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/anshr0612/leetcode-performance/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anshr0612/leetcode-performance/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/anshr0612/leetcode-performance/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/anshr0612/leetcode-performance/tree/master/2409-count-days-spent-together) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/anshr0612/leetcode-performance/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anshr0612/leetcode-performance/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshr0612/leetcode-performance/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshr0612/leetcode-performance/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshr0612/leetcode-performance/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshr0612/leetcode-performance/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/anshr0612/leetcode-performance/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshr0612/leetcode-performance/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshr0612/leetcode-performance/tree/master/3498-reverse-degree-of-a-string) |
