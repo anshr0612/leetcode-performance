@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anshr0612/leetcode-performance/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshr0612/leetcode-performance/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3693-climbing-stairs-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshr0612/leetcode-performance/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshr0612/leetcode-performance/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshr0612/leetcode-performance/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshr0612/leetcode-performance/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/anshr0612/leetcode-performance/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/anshr0612/leetcode-performance/tree/master/3693-climbing-stairs-ii) |
 ## Topological Sort
 |  |
 | ------- |
