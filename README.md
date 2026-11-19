@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anshr0612/leetcode-performance/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/anshr0612/leetcode-performance/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/anshr0612/leetcode-performance/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/anshr0612/leetcode-performance/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshr0612/leetcode-performance/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshr0612/leetcode-performance/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/anshr0612/leetcode-performance/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/anshr0612/leetcode-performance/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/anshr0612/leetcode-performance/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshr0612/leetcode-performance/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/anshr0612/leetcode-performance/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshr0612/leetcode-performance/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshr0612/leetcode-performance/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshr0612/leetcode-performance/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshr0612/leetcode-performance/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anshr0612/leetcode-performance/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/anshr0612/leetcode-performance/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/anshr0612/leetcode-performance/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/anshr0612/leetcode-performance/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshr0612/leetcode-performance/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -657,4 +661,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anshr0612/leetcode-performance/tree/master/1071-greatest-common-divisor-of-strings) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anshr0612/leetcode-performance/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anshr0612/leetcode-performance/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
