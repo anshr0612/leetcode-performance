@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshr0612/leetcode-performance/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0540-single-element-in-a-sorted-array) |
 | [0835-image-overlap](https://github.com/anshr0612/leetcode-performance/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anshr0612/leetcode-performance/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anshr0612/leetcode-performance/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/anshr0612/leetcode-performance/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/anshr0612/leetcode-performance/tree/master/0896-monotonic-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anshr0612/leetcode-performance/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshr0612/leetcode-performance/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshr0612/leetcode-performance/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anshr0612/leetcode-performance/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anshr0612/leetcode-performance/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshr0612/leetcode-performance/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshr0612/leetcode-performance/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -698,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/anshr0612/leetcode-performance/tree/master/1352-product-of-the-last-k-numbers) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anshr0612/leetcode-performance/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
